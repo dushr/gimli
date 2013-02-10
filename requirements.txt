@@ -1,0 +1,7 @@
+Twisted==12.3.0
+autobahn==0.5.9
+ipdb==0.7
+ipython==0.13.1
+redis==2.7.2
+wsgiref==0.1.2
+zope.interface==4.0.3
